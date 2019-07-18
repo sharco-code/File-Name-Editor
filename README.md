@@ -12,4 +12,4 @@ And so with the other 5 gb of songs, i was too lazy to edit the names of all tha
 If you have a file called "3 - Linkin Park - Forgotten.mp3", run the program and now your song is called "Linkin Park - Forgotten.mp3"
 
 # HOW TO USE
-Put the .exe in the folder where the files you want to rename are located
+Put the .exe in the folder where the files you want to rename are located and run it
