@@ -50,7 +50,6 @@ int main(int argc, char *argv[]){
     while (std::getline(in, str)) {
         if(isdigit(str[0])) {
             if(str.find(" - ") != string::npos) {
-                //res = str.substr(0, str.find(" - "));
                 res = p.split(str, '-');
                 res = p.split(res, ' ');
                 command = "copy \""+str+"\" \""+res+"\"";
