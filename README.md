@@ -1,4 +1,5 @@
 # File-Name-Editor
+(Only for windows)
 This program removes a part of name from all files located on folder where the program is
 
 I had a problem, i had more than 5GB of songs (mp3 files) in my PC... these songs have an annoying thing, this is their name.
